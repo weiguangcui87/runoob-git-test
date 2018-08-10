@@ -1,2 +1,2 @@
-# 菜鸟教程 Git 测试
+# Let's make a Git test now
 I made some new change
